@@ -1,0 +1,5 @@
+{'name': 'Karim', 'age': '18', 'address': '20 rim str. Silcon Oasis', 'uni': 'RIT', 'college': 'Computer Science', 'depart': 'Data Science', 'semes': 'Fall', 'year': '2', 'credits': '35', 'gpa': '4.3'}
+{'', 'pink', 'red', 'black', 'green', 'purple', 'brown', 'blue', 'yellow'}
+['RIT', 'Dubai', 'UAE', 'gulf', 'Samir El-Masri', 'Sharjah', 'abu Dhabi', 'Umm Al Quwain', 'Ajman', '']
+('30', '25', '35', '40', '50', '10', '56', '', '', '')
+('i', ['120', '20', '100', '10', '40', '30', '50', '45', '70', '60'])
